@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.223.140.226:8081/repository/Application//</url>
+		    <url>http://44.211.88.83:8081/repository/Web-App-Auto-Deploy/</url>
 		</repository>
   	</distributionManagement>
 	
